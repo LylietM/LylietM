@@ -7,14 +7,6 @@
 
 ---
 
-## 📫 How to Reach Me
-
-[![Email](https://img.shields.io/badge/Email-%23F0AC0F?style=for-the-badge&color=%23F0AC0F)](mailto:lidiasanchez@unex.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232982E6?style=for-the-badge&color=%232982E6)](https://www.linkedin.com/in/lidiasanchez-sanchez)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2312C9A1?style=for-the-badge&color=%2312C9A1)](https://www.researchgate.net/profile/Lidia-Sanchez-Sanchez-2)
-
----
-
 ## 🧭 About Me
 
 I am a biologist specialized in wildlife conservation, with a strong focus on spatial ecology, biogeography, and habitat connectivity. Currently, I am pursuing a PhD in Modeling and Experimentation in Science and Technology at the University of Extremadura, where I work on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*)
@@ -49,5 +41,12 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ---
 
+## 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-%23F0AC0F?style=for-the-badge&color=%23F0AC0F)](mailto:lidiasanchez@unex.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232982E6?style=for-the-badge&color=%232982E6)](https://www.linkedin.com/in/lidiasanchez-sanchez)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2312C9A1?style=for-the-badge&color=%2312C9A1)](https://www.researchgate.net/profile/Lidia-Sanchez-Sanchez-2)
+
+---
 
 *Let's connect and collaborate on spatial ecology, open science, and conservation!*
