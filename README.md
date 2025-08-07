@@ -23,7 +23,7 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Digital Skills
 
 - **GIS & Remote Sensing**: QGIS, ArcGIS & ENVI  
 - **Spatial Databases**: PostgreSQL & PostGIS  
