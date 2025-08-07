@@ -1,8 +1,7 @@
 # 👩‍🔬 Lidia Sánchez Sánchez
 
 🎓 PhD Student in Spatial Ecology  
-🧬 Biologist | GIS | Spatial Ecology & Wetlands | Conservation Biologist
-
+🧬 Biologist | GIS | Spatial Ecology & Wetlands | Conservation Biologist  
 📍 Researcher at the Conservation Biology Group, University of Extremadura (Spain)
 
 ---
