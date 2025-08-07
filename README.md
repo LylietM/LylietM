@@ -9,11 +9,11 @@
 
 ## 🧭 About Me
 
-I am a biologist specialized in wildlife conservation, with a strong focus on spatial ecology, biogeography, and habitat connectivity. Currently, I am pursuing a PhD in Modeling and Experimentation in Science and Technology at the University of Extremadura, where I work on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*).
+I am a biologist specialized in wildlife conservation, with a strong focus on spatial ecology, biogeography, and habitat connectivity. Currently, I am pursuing a PhD in Modeling and Experimentation in Science and Technology at the University of Extremadura, where I work on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*)
 
 I have experience in:
 
-- 🗺️ Geographic Information Systems (QGIS, ArcGIS, R)
+- 🗺️ Geographic Information Systems (QGIS, ArcGIS & R)
 - 🛰️ Remote Sensing
 - 🌍 Species Distribution Modeling and landscape connectivity
 - 🦇 Biodiversity monitoring in wetlands and solar infrastructures
