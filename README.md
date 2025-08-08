@@ -48,4 +48,4 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ---
 
-*Let's connect and collaborate on spatial ecology, open science, and conservation!*
+*Let's connect and collaborate on spatial ecology, open science, and wildlife conservation!*
