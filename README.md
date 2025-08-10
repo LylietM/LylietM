@@ -14,7 +14,7 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ---
 
-## 💻 Scientific & Technical Skills
+### 💻 Scientific & Technical Skills
 
 - 🗺️ Geographic Information Systems (QGIS, ArcGIS & R)
 - 🛰️ Remote Sensing
@@ -24,7 +24,7 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ---
 
-## 🧰 Digital Skills
+### 🧰 Digital Skills
 
 - **GIS & Remote Sensing**: QGIS, ArcGIS & ENVI  
 - **Spatial Databases**: PostgreSQL & PostGIS  
@@ -33,7 +33,7 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ---
 
-## 🌱 Current Projects
+### 🌱 Current Projects
 
 - Wetland connectivity and conservation 
 - Long-term monitoring of vertebrate biodiversity in photovoltaic parks  
