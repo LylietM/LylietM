@@ -16,7 +16,7 @@ My goal is to apply geospatial tools and emerging technologies (drones, camera t
 
 ### 💻 Scientific & Technical Skills
 
-- 🗺️ Geographic Information Systems (QGIS, ArcGIS & R)
+- 🗺️ Geographic Information Systems
 - 🛰️ Remote Sensing
 - 🌍 Species Distribution Modeling and landscape connectivity
 - 🦇 Biodiversity monitoring in wetlands and photovoltaic parks
