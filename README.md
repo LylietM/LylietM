@@ -1,14 +1,14 @@
 # 👩‍🔬 Lidia Sánchez Sánchez
 
 🎓 PhD Student in Spatial Ecology  
-🧬 Biologist | GIS | Spatial Ecology & Wetlands | Conservation Biologist  
-📍  Researcher at the Conservation Biology Group, University of Extremadura (Spain)
+🧬 Biologist | GIS | Spatial Ecology & Wetlands | Conservation Biologist & Nature-Tech | Drone pilot | IA  
+📍  Research Scientist in the Conservation Biology Group at the University of Extremadura (Spain)
 
 ---
 
 ## 🧭 About Me
 
-I am a biologist specialized in wildlife conservation, with a strong focus on spatial ecology, biogeography, and habitat connectivity. Currently, I am pursuing a PhD in Modeling and Experimentation in Science and Technology at the University of Extremadura, where I work on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*).
+I am a biologist specialised in wildlife conservation, with a focus on spatial ecology, biogeography, and habitat connectivity. I am currently a PhD student at the University of Extremadura; my doctoral research focuses on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*). I work as a Research Scientist in the Conservation Biology Group at the University of Extremadura, where I focus on spatial analysis and wetlands. Also, I work in biodiversity monitoring in solar infrastructures.
 
 My goal is to apply geospatial tools and diverse technologies (UAVs, camera traps, passive acoustic monitoring devices, and AI) to advance biodiversity conservation and environmental research.
 
@@ -18,9 +18,9 @@ My goal is to apply geospatial tools and diverse technologies (UAVs, camera trap
 
 - 🗺️ Geographic Information Systems
 - 🛰️ Remote Sensing
-- 🌍 Species Distribution Modeling and landscape connectivity
+- 🌍 Species Distribution Models and Habitat connectivity
 - 🦇 Biodiversity monitoring in wetlands and photovoltaic parks
-- 🤖 EU-certified UAV pilot
+- 🤖  UAV pilot
 
 ---
 
