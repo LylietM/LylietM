@@ -2,7 +2,7 @@
 
 🎓 PhD Student in Spatial Ecology  
 🧬 Biologist | Spatial Analysis & Environmental Data | GIS | Biodiversity Conservation
-📍 Research Scientist in the Conservation Biology Group at the University of Extremadura (Spain)
+📍   Research Scientist in the Conservation Biology Group at the University of Extremadura (Spain)
 
 ---
 
