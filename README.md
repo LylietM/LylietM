@@ -1,14 +1,14 @@
 # 👩‍🔬 Lidia Sánchez Sánchez
 
 🎓 PhD Student in Spatial Ecology  
-🧬 Biologist | GIS | Spatial Ecology & Wetlands | Conservation Biologist & Nature-Tech | Drone pilot | IA  
-📍  Research Scientist in the Conservation Biology Group at the University of Extremadura (Spain)
+🧬 Biologist | Spatial Analysis & Environmental Data | GIS | Biodiversity Conservation
+📍 Research Scientist in the Conservation Biology Group at the University of Extremadura (Spain)
 
 ---
 
 ## 🧭 About Me
 
-I am a biologist specialised in wildlife conservation, with a focus on spatial ecology, biogeography, and habitat connectivity. I am currently a PhD student at the University of Extremadura; my doctoral research focuses on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*). I work as a Research Scientist in the Conservation Biology Group at the University of Extremadura, where I focus on spatial analysis and wetlands. Also, I work in biodiversity monitoring in solar infrastructures.
+I am a biologist specialised in wildlife conservation, with a focus on spatial ecology, biogeography, and habitat connectivity. I am currently a PhD student at the University of Extremadura; my doctoral research focuses on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*). I work as a Research Scientist in the Conservation Biology Group at the University of Extremadura, where I focus on spatial analysis. Also, I work in biodiversity monitoring in solar infrastructures.
 
 My goal is to apply geospatial tools and diverse technologies (UAVs, camera traps, passive acoustic monitoring devices, and AI) to advance biodiversity conservation and environmental research.
 
@@ -17,9 +17,9 @@ My goal is to apply geospatial tools and diverse technologies (UAVs, camera trap
 ### 💻 Scientific & Technical Skills
 
 - 🗺️ Geographic Information Systems
-- 🛰️ Remote Sensing
 - 🌍 Species Distribution Models and Habitat connectivity
 - 🦇 Biodiversity monitoring in wetlands and photovoltaic parks
+- 🛰️ Remote Sensing
 - 🤖  UAV pilot
 
 ---
@@ -37,7 +37,7 @@ My goal is to apply geospatial tools and diverse technologies (UAVs, camera trap
 
 - Wetland connectivity and conservation 
 - Long-term monitoring of vertebrate biodiversity in photovoltaic parks  
-- UAV integration in species distribution studies  
+- Species Distribution Models  
 - Teaching GIS and remote sensing
 
 ---
