@@ -2,10 +2,6 @@
 
 GIS Analyst | Spatial Ecologist | Biologist
 
-GIS & Spatial Analysis · Remote Sensing · PostGIS
-Biodiversity Conservation · Habitat Connectivity · Species Distribution Models
-Conservation Biology Group, University of Extremadura, Spain
-
 ---
 
 ## About Me
