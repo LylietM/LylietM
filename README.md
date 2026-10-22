@@ -1,8 +1,6 @@
 # Lidia Sánchez Sánchez
 
-GIS Analyst | Spatial Ecologist | Biologist
 
----
 
 ## About Me
 
