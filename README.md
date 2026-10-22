@@ -1,46 +1,46 @@
 # Lidia Sánchez Sánchez
 
-🎓 PhD Student in Spatial Ecology  
-🧬 Biologist | Spatial Analysis & Environmental Data | GIS | Biodiversity Conservation
+GIS Analyst | Spatial Ecologist | Biologist
 
-📍 Research Scientist in the Conservation Biology Group at the University of Extremadura (Spain)
+GIS & Spatial Analysis · Remote Sensing · PostGIS
+Biodiversity Conservation · Habitat Connectivity · Species Distribution Models
+Conservation Biology Group, University of Extremadura, Spain
 
 ---
 
 ## About Me
 
-I am a biologist specialised in wildlife conservation, with a focus on spatial ecology, biogeography, and habitat connectivity. I am currently a PhD student at the University of Extremadura; my doctoral research focuses on the spatial and ecological dynamics of the invasive Egyptian Goose (*Alopochen aegyptiaca*). I work as a Research Scientist in the Conservation Biology Group at the University of Extremadura, where I focus on spatial analysis. Also, I work in biodiversity monitoring in solar infrastructures.
-
-My goal is to apply geospatial tools and diverse technologies (UAVs, camera traps, passive acoustic monitoring devices, and AI) to advance biodiversity conservation and environmental research.
+I am a biologist specialised in wildlife conservation, with a focus on spatial ecology, biogeography, and habitat connectivity. I currently work as a Research Scientist in the Conservation Biology Group at the University of Extremadura, where I focus on spatial analysis. Also, I work in biodiversity monitoring in solar infrastructures.
 
 ---
 
-### Scientific & Technical Skills
+## GIS & Spatial Analysis
 
-- 🗺️ Geographic Information Systems
-- 🌍 Species Distribution Models and Habitat connectivity
-- 🦇 Biodiversity monitoring in wetlands and photovoltaic parks
-- 🛰️ Remote Sensing
-- 🤖  UAV pilot
+- Vector and raster analysis, thematic mapping, and geospatial data management
+- Ecological connectivity and biological corridor analysis
+- Species distribution models (GLM, BART, Maxent)
+- Conservation prioritisation and protected-area analysis
+- Satellite imagery processing and spectral indices
+- Spatial data validation, coordinate correction, and CRS management
+- Python scripting and workflow automation in QGIS
 
----
+## Tools & Technologies
 
-### Digital Skills
+- GIS: QGIS, PyQGIS, ArcGIS
+- Spatial analysis: FRAGSTATS, Maxent, Zonation
+- Programming and data analysis: R, Python
+- R packages: terra, raster, ggplot2, dbarts, fuzzySim, modEvA, iNEXT.4steps
+- Python packages: pandas, GeoPandas, Shapely, Pyogrio
+- Remote sensing: ENVI
 
-- **GIS & Remote Sensing**: QGIS, ArcGIS & ENVI  
-- **Spatial Databases**: PostgreSQL & PostGIS  
-- **Programming**: R & Python
-- **Statistical and spatial analysis**: RStudio
+## Selected Experience & Projects
 
----
-
-### Current Projects
-
-- Wetland connectivity and conservation 
-- Long-term monitoring of vertebrate biodiversity in photovoltaic parks  
-- Species Distribution Models  
-- Teaching GIS and remote sensing
-
+- Structural ecological connectivity analysis of 400 wetlands in Extremadura
+- Integration, cleaning, and standardisation of environmental databases
+- Species distribution modelling and spatial analysis to support the management of an invasive species
+- Long-term biodiversity monitoring across four photovoltaic parks
+- GIS and remote sensing training
+  
 ---
 
 ## How to Reach Me
