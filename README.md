@@ -47,4 +47,4 @@ I am a biologist specialised in wildlife conservation, with a focus on spatial e
 
 ---
 
-*Let's connect and collaborate on spatial ecology, open science, and wildlife conservation!*
+*Let's connect and collaborate on spatial analysis, GIS, and biodiversity conservation!*
