@@ -23,9 +23,9 @@ I am a biologist specialised in wildlife conservation, with a focus on spatial e
 - GIS: QGIS, PyQGIS, ArcGIS
 - Spatial analysis: FRAGSTATS, Maxent, Zonation
 - Programming and data analysis: R, Python
-- R packages: terra, raster, ggplot2, dbarts, fuzzySim, modEvA, iNEXT.4steps
-- Python packages: pandas, GeoPandas, Shapely, Pyogrio
-- Remote sensing: ENVI
+- R packages: terra, raster, geodata, ggplot2, fuzzySim, collinear, corrplot, pROC, modEvA, embarcadero, dbarts, blockCV, iNEXT.4steps, gdistance
+- Python packages: pandas, GeoPandas
+- Remote sensing: QGIS, ENVI 
 
 ## Selected Experience & Projects
 
